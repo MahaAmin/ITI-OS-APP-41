@@ -6,3 +6,5 @@ on feature 1 commit 3
 
 new commit after merging feature1
 another commit on master
+
+on master commit 1
