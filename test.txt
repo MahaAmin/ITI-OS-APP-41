@@ -10,3 +10,5 @@ another commit on master
 on feature2 commit 1
 on feature2 commit 2
 on feature2 commit 3
+on master commit 1
+on master commit 2
