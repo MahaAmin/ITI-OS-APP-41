@@ -8,3 +8,4 @@ new commit after merging feature1
 another commit on master
 
 on master commit 1
+on master commit 2
