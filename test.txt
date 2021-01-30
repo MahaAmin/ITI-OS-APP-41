@@ -9,3 +9,6 @@ another commit on master
 
 on master commit 1
 on master commit 2
+
+on feature 3 commit 1
+on feature 3 commit 2
